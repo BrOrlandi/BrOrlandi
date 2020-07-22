@@ -7,7 +7,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/brorlandi)
 [![Twitter Badge](https://img.shields.io/badge/-@brorlandi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/brorlandi)  
 
-[<img alt="Kassel Labs" src="./KasselLabsLogo.svg" width="400">](https://kassellabs.io/)
+[<img alt="Kassel Labs" src="https://raw.githubusercontent.com/BrOrlandi/BrOrlandi/master/KasselLabsLogo.svg" width="400">](https://kassellabs.io/)
 
 
 
