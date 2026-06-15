@@ -11,6 +11,8 @@
 <!-- STREAK:START -->
 ### 🔥 Current streak: 113 days
 
+<sub>Last updated: 2026-06-14</sub>
+
 > ℹ️ This counter is only updated when I make at least one contribution to any repository.
 <!-- STREAK:END -->
 
