@@ -13,7 +13,7 @@
 
 <sub>Last updated: 2026-06-14</sub>
 
-> ℹ️ This counter is only updated when I make at least one contribution to any repository.
+<sub>ℹ️ This counter is only updated when I make at least one contribution to any repository.</sub>
 <!-- STREAK:END -->
 
 <!-- [<img alt="Kassel Labs" src="https://raw.githubusercontent.com/BrOrlandi/BrOrlandi/master/KasselLabsLogo.svg" width="400">](https://kassellabs.io/) -->
